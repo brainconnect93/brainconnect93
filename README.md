@@ -7,6 +7,8 @@ A software engineer who is passionate about building websites and web apps, maki
 
 >   ABOUT ME 
 
+<img src = "https://camo.githubusercontent.com/5078e413b12296bfea56cee8c1179b0e47b59025bf9ed4f46cafd89c8c91d714/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d46656c6978343526636f6c6f723d6f72616e6765">
+
 ``` javaScript
 const aboutAfolabi Akorede = {
     fullName: "Afolabi Akorede",
