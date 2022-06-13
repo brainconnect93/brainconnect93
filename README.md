@@ -6,7 +6,8 @@ A software engineer who is passionate about building websites and web apps, maki
 <img src = "https://github.com/SatYu26/SatYu26/raw/master/Assets/Developer.gif">
 
 # 💫About Me :
-``` const aboutAfolabi Akorede = {
+``` 
+const aboutAfolabiAkorede = {
     fullName: "Afolabi Akorede",
     pronouns: ["He", "Him"],
     nationality: "Ibadan, Nigeria",
