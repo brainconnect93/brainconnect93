@@ -1,5 +1,5 @@
 ### Hi there, I'm Afolabi Akorede 👋
-
+![](https://raw.githubusercontent.com/brainconnect93/brainconnect93/master/brainconnect93_header.jpeg)
 
 A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
 
