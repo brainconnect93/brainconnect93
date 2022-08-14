@@ -1,5 +1,7 @@
 ### Hi there, I'm Afolabi Akorede 👋
 
+<img src="https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif">
+
 A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
 
 <img src = "https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" style="width: 300px">  <img src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" style="width: 300px">
