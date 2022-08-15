@@ -1,6 +1,6 @@
 ### Hi there, I'm Afolabi Akorede 👋
 
-https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif
+
 
 A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
 
