@@ -62,7 +62,7 @@ const aboutAfolabiAkorede = {
 
 ## Contribution graph
 
-[![Afolabi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Afolabi's github activity graph](https://activity-graph.herokuapp.com/graph?username=brainconnect93&theme=dracula)](https://github.com/brainconnect93/github-readme-activity-graph)
 
 
 ### ✍️Random Dev Quote
