@@ -53,7 +53,8 @@ const aboutAfolabiAkorede = {
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
-<code><img height="70px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code>
+<code><img height="70px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code> &nbsp;&nbsp;
+<code><img height="70px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> &nbsp;&nbsp;
 </p>
 
 # 📊GitHub Stats :
