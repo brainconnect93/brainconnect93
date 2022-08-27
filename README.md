@@ -67,5 +67,3 @@ const aboutAfolabiAkorede = {
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### i love programming
