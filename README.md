@@ -38,24 +38,24 @@ const aboutAfolabiAkorede = {
   Here are some technologies I use:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code> &nbsp;&nbsp;
-<code><img height="64px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code> &nbsp;&nbsp;
+<code><img height="45px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
-<code><img height="70px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code> &nbsp;&nbsp;
-<code><img height="70px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> &nbsp;&nbsp;
-<code><img height="70px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
+<code><img height="50px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code> &nbsp;&nbsp;
+<code><img height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> &nbsp;&nbsp;
+<code><img height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"></code> &nbsp;&nbsp;
 </p>
 
 # 📊GitHub Stats :
