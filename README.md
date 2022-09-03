@@ -8,6 +8,7 @@ A software engineer who is passionate about building websites and web apps, maki
 
 # 💫About Me :
 ``` 
+}
 const aboutAfolabiAkorede = {
     fullName: "Afolabi Akorede",
     pronouns: ["He", "Him"],
