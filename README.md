@@ -58,15 +58,7 @@ const aboutAfolabiAkorede = {
 <code><img height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"></code> &nbsp;&nbsp;
 </p>
 
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=brainconnect93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brainconnect93&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainconnect93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Contribution graph
-
-[![Afolabi's github activity graph](https://activity-graph.herokuapp.com/graph?username=brainconnect93&theme=dracula)](https://github.com/brainconnect93/github-readme-activity-graph)
+`
 
 
 ### ✍️Random Dev Quote
