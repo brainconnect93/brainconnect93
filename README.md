@@ -1,5 +1,6 @@
 ### Hi there, I'm Afolabi Akorede 👋
 
+I love Programming 
 
 
 A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes JavaScript, HTML/CSS, Bootstrap.
