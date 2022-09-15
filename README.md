@@ -44,6 +44,7 @@ const aboutAfolabiAkorede = {
 <code><img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code> &nbsp;&nbsp;
 <code><img height="45px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"></code> &nbsp;&nbsp;
 <code><img height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhl-nNZNvd9EJJJIqqyqYL7QzpmN_-vq1FEA&usqp=CAU"></code> &nbsp;&nbsp;
+<code><img height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKycRWXEw-6mO_cmVQKO4YqxwzDNaTAqibDQ&usqp=CAU"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
