@@ -9,14 +9,16 @@ A software engineer who is passionate about building websites and web apps, maki
 
 ```javascript
 const Afolabi Akorede = {
-    fullName: "Afolabi Akorede",
-    pronouns: ["He", "Him"],
-    nationality: "Ibadan, Nigeria",
-    jobStatus: ["Student at Microverse"],
-    hobbies: ["Playing football","Reading","Watching football","Athletics","Solving coding challenges"],
-    techStack:["CSS","JavaScript","HTML","Bootstrap",React,Redux,Ruby,NPM,Node],
-    isWorkingNow: false,
-    educationLevel: {
+    FULLNAME: Afolabi Akorede,
+    PRONOUNCE: ["He", Him],
+    NATIONALITY: "Ibadan, Nigeria",
+    CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", Ruby on Rails
+    LOOKING FOR: "Front-end development opportunity || "Full-stack web development"
+    STUDENT@: [Microverse],
+    HOBBIES: ["Playing football",Reading,"Watching football",Solving coding challenges],
+    TECH STACK:["JavaScript", HTML/CSS, "Bootstrap", React, "Redux", Ruby, "NPM", Node, "PostgreSQL"],
+    TOOLS: [Netlify, "GitLab", Github, "Dev", Heroku, "Git"]
+    EDUCATION: {
         BachlorsDegree: Agricultural Science,
         isCompleted: true,
         MastersDegree: Agricultural Science,
@@ -24,8 +26,6 @@ const Afolabi Akorede = {
     },
     telephoneNumber: "+2348135479840",
     socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
-    codingEnviroment: "Github",
-    nowLearning: ["Full stack web developement at Microverse"],
     lookingForNewOpportunities: true    
 }
 ```
