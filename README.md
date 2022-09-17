@@ -12,7 +12,7 @@ const Afolabi Akorede = {
     FULLNAME: Afolabi Akorede,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
-    CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", Ruby on Rails
+    CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", "Ruby on Rails"
     LOOKING FOR: "Front-end development opportunity" || "Full-stack web development"
     STUDENT@: [Microverse],
     HOBBIES: ["Playing football",Reading,"Watching football",Solving coding challenges],
