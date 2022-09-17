@@ -15,7 +15,7 @@ const Afolabi Akorede = {
     CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", "Ruby on Rails"
     LOOKING FOR: "Front-end development opportunity" || "Full-stack web development"
     STUDENT@: [Microverse],
-    HOBBIES: ["Playing football",Reading,"Watching football",Solving coding challenges],
+    HOBBIES: ["Playing football",Reading,"Watching football","Solving coding challenges"],
     TECH STACK:["JavaScript", HTML/CSS, "Bootstrap", React, "Redux", Ruby, "NPM", Node, "PostgreSQL"],
     TOOLS: [Netlify, "GitLab", Github, "Dev", Heroku, "Git"]
     EDUCATION: {
