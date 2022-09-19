@@ -22,8 +22,7 @@ const Afolabi Akorede = {
         BachlorsDegree: Agricultural Science,
         isCompleted: true,
         MastersDegree: Agricultural Science,
-        isCompleted: false(InView),
-    },
+        isCompleted: false(InView) },
     TELEPHONE NUMBER: "+2348135479840",
     SOCIAL MEDIA: ["LinkedIn", "WhatsApp", "Twitter"],   
 }
