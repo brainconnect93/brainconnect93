@@ -8,7 +8,7 @@ A software engineer who is passionate about building websites and web apps, maki
 # 💫About Me :
 
 ```javascript
-const  = {
+const Brainconnect = {
     FULLNAME: Afolabi Akorede Yussuf,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
