@@ -8,8 +8,8 @@ A software engineer who is passionate about building websites and web apps, maki
 # 💫About Me :
 
 ```javascript
-const Afolabi Akorede = {
-    FULLNAME: Afolabi Akorede,
+const  = {
+    FULLNAME: Afolabi Akorede Yussuf,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
     CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", "Ruby on Rails"
