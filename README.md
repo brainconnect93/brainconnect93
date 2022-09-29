@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=brainconnect93&color=green)
+
 ### Hi there, I'm Afolabi Akorede 👋
 
 
@@ -72,5 +74,4 @@ const Brainconnect = {
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-![](https://komarev.com/ghpvc/?username=brainconnect93&color=red)
 
