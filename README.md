@@ -74,4 +74,3 @@ const Brainconnect = {
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-I am a full stack developer
