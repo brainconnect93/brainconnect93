@@ -57,7 +57,10 @@ const Brainconnect = {
 <code><img height="50px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png"></code> &nbsp;&nbsp;
 <code><img height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> &nbsp;&nbsp;
 <code><img height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"></code> &nbsp;&nbsp;
+<code><img height="50px" src="https://www.geekandjob.com/uploads/wiki/3be3ce3bef591d4176f4483eb847e65b.png"></code> &nbsp;&nbsp;
 </p>
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.viget.com%2Farticles%2Facceptance-testing-react-apps-with-jest-and-nightmare%2F&psig=AOvVaw2qXuI_mTx1nxQ6oaE6HaDz&ust=1665445041067000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjJm7Oo1PoCFQAAAAAdAAAAABAE
 
 # 📊GitHub Stats :
 
