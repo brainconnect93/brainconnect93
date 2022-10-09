@@ -60,8 +60,6 @@ const Brainconnect = {
 <code><img height="50px" src="https://www.geekandjob.com/uploads/wiki/3be3ce3bef591d4176f4483eb847e65b.png"></code> &nbsp;&nbsp;
 </p>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.viget.com%2Farticles%2Facceptance-testing-react-apps-with-jest-and-nightmare%2F&psig=AOvVaw2qXuI_mTx1nxQ6oaE6HaDz&ust=1665445041067000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjJm7Oo1PoCFQAAAAAdAAAAABAE
-
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=brainconnect93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
