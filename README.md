@@ -14,7 +14,10 @@ const Brainconnect = {
     FULLNAME: Afolabi Akorede Yussuf,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
-    CURRENTLY LEARNING: Databases(PostgreSQL), "Ruby", "Ruby on Rails"
+    TECH STACK: "C#", ".NET Core", "ASP.Net Core", "Entity Framework" "JavaScript", "TypeScript", "Node.js", "Next.js",
+    "JQuery", "JSON", "RESTful", "React", "Redux", "React Query", "HTML5", "CSS3", "Web API", "Tailwind", 
+    DATABASE: "PostgreSQL", "MongoDB", "SQL Server"
+    SOFTWARE ARCHITECTURE: "MVC", "Microservices", "Service Oriented", "Test-Driven Development", "Agile Practices", "Scrum". 
     LOOKING FOR: "Front-end development opportunity" || "Full-stack web development"
     STUDENT@: [Microverse],
     HOBBIES: ["Playing football",Reading,"Watching football","Solving coding challenges"],
@@ -70,7 +73,7 @@ const Brainconnect = {
 
 ## Contribution graph
 
-[![Afolabi's github activity graph](https://activity-graph.herokuapp.com/graph?username=brainconnect93&theme=dracula)](https://github.com/brainconnect93/github-readme-activity-graph)
+[![Afolabi's github activity graph]((https://github.com/brainconnect93/github-readme-activity-graph/blob/main/asset/dracula.svg))](https://github.com/brainconnect93/github-readme-activity-graph)
 
 
 
