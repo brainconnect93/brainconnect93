@@ -5,30 +5,29 @@
 
 Dynamic software development professional with a strong track record of experience in C# .NET and MS SQL, specializing in developing scalable and high-performance applications. Proven expertise in .NET Core, MVC, Entity Framework, Multithreading, and RESTful APIs. Recognized for automating processes, driving efficiency, and improving operational metrics by 35% through optimized workflows and major deployments. Adept at collaborating with cross-functional teams to design and implement robust software solutions adhering to Agile methodologies.
 
-<img src = "https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" style="width: 300px">  <img src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" style="width: 300px">
 
 # 💫About Me :
 
 ```javascript
 const Brainconnect = {
-    FULLNAME: Afolabi Akorede Yussuf,
+    FULLNAME: AFOLABI AKOREDE YUSSUF,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
-    TECH STACK: "C#", ".NET Core", "ASP.Net Core", "Entity Framework" "JavaScript", "TypeScript", "Node.js", "Next.js",
-    "JQuery", "JSON", "RESTful", "React", "Redux", "React Query", "HTML5", "CSS3", "Web API", "Tailwind", 
-    DATABASE: "PostgreSQL", "MongoDB", "SQL Server"
-    SOFTWARE ARCHITECTURE: "MVC", "Microservices", "Service Oriented", "Test-Driven Development", "Agile Practices", "Scrum". 
+    LOCATION: Doha, Qatar,
     LOOKING FOR: "Front-end development opportunity" || "Full-stack web development"
     STUDENT@: [Microverse],
     HOBBIES: ["Playing football",Reading,"Watching football","Solving coding challenges"],
-    TECH STACK:["JavaScript", HTML/CSS, "Bootstrap", React, "Redux", Ruby, "NPM", Node, "PostgreSQL"],
-    TOOLS: [Netlify, "GitLab", Github, "Dev", Heroku, "Git"]
+    TECH STACK: [C#, ".NET Core", ASP.Net Core, "Entity Framework", JavaScript, "TypeScript", Node.js, "Next.js",
+    JQuery, "JSON", RESTful, "React", Redux, "React Query", HTML5, "CSS3", Web API, "Tailwind"],
+    DATABASE: [PostgreSQL, "MongoDB", SQL Server],
+    SOFTWARE ARCHITECTURE: ["MVC", Microservices, "Service Oriented", Test-Driven Development, "Agile Practices", Scrum],
+    TOOLS: [Netlify, "GitLab", Github, "Dev", Heroku, "Git"],
     EDUCATION: {
-        BachlorsDegree: Agricultural Science,
+        BachelorsDegree: Bachelor Of Science,
         isCompleted: true,
-        MastersDegree: Agricultural Science,
-        isCompleted: false(InView) },
-    TELEPHONE NUMBER: "+2348135479840",
+        MastersDegree: Masters Of Science,
+        isCompleted: true },
+    TELEPHONE NUMBER: "+97431219450",
     SOCIAL MEDIA: ["LinkedIn", "WhatsApp", "Twitter"],   
 }
 ```
@@ -73,7 +72,7 @@ const Brainconnect = {
 
 ## Contribution graph
 
-[![Afolabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brainconnect93)](https://github.com/brainconnect93/github-readme-activity-graph)
+[![Afolabi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brainconnect93&theme=react-dark)](https://github.com/brainconnect93/github-readme-activity-graph)
 
 
 
