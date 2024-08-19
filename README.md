@@ -13,7 +13,7 @@ const Brainconnect = {
     FULLNAME: AFOLABI AKOREDE YUSSUF,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Ibadan, Nigeria",
-    LOCATION: Doha, Qatar,
+    LOCATION: Al-Wakrah, Qatar
     LOOKING FOR: "Front-end development opportunity" || "Full-stack web development"
     STUDENT@: [Microverse],
     HOBBIES: ["Playing football",Reading,"Watching football","Solving coding challenges"],
